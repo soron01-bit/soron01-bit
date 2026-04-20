@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sharan Sarkar
-**A passionate Engineer || Website Developer || Kafka Admin from India**
+**A passionate CSE student & Developer || Website Developer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **sharansarkar1241@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -13,6 +13,8 @@ Email Me 👉 ✉️ **sharansarkar1241@gmail.com** For Collaboration/Project or
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sharan.sarkar.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharan-sarkar-218009345) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCtZRRxjuOxhl3-CQII2VkQw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharansarkar1241@gmail.com) 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Node.js+Enthusiast)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -20,7 +22,8 @@ Email Me 👉 ✉️ **sharansarkar1241@gmail.com** For Collaboration/Project or
 </div>
 
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soron01-bit&theme=react-dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=soron01-bit)
 
 
 # 💻 Tech Stack:
